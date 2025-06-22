@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning PHP and React
 <!--
 **KristopherWilson/KristopherWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
